@@ -4,7 +4,6 @@
 // @description  Do not show black focus ring (3px wide solid black outline)
 // @include      http*
 // @version      1.0
-// @icon         https://pasteboard.co/Jmtuiky.png
 // ==/UserScript==
 "use strict";
 
